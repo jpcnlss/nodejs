@@ -1,0 +1,34 @@
+{
+   "student1" : {
+      "name" : "Jaypee Canlas",
+	  "addess" : "Minalin Pampanga",
+	  "course" : "Bs-Computer Engineering",
+      "year level" : "3rd Year",
+      "id": 1
+   },
+   
+   "student2" : {
+      "name" : "Crsytal Nucum",
+	  "addess" : "Sto tomas Pampanga",
+	  "course" : "Bs-Civil Engineering",
+      "year level" : "4th Year",
+      "id": 2
+   },
+   
+   "student3" : {
+      "name" : "Gwy parungao",
+	  "addess" : "San fernando Pampanga",
+	  "course" : "Bs-Industrial Engineering",
+      "year level" : "3rd Year",
+      "id": 3
+   },
+   
+   "student4" : {
+      "name" : "Micol Tolentino",
+	  "addess" : "Macabebe Pampanga",
+	  "course" : "Bs-Civil Engineering",
+      "year level" : "3rd Year",
+      "id": 4
+   }
+   
+}
